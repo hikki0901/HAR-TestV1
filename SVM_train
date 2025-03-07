@@ -24,12 +24,19 @@ def train_svm(train_features, train_labels, model_path):
     joblib.dump(clf, model_path)
     print("SVM model trained and saved to", model_path)
 
-def evaluate_svm(model_path, test_features, test_labels):
+def evaluate_svm(model_path, test_features, test_labels, report_file):
     clf = joblib.load(model_path)
     predictions = clf.predict(test_features)
     acc = accuracy_score(test_labels, predictions)
+    report = classification_report(test_labels, predictions)
+    
     print("Accuracy:", acc)
-    print("Classification Report:\n", classification_report(test_labels, predictions))
+    print("Classification Report:\n", report)
+    
+    with open(report_file, 'w') as f:
+        f.write(f"Accuracy: {acc}\n\n")
+        f.write("Classification Report:\n")
+        f.write(report)
 
 def main():
     dataset_splits = ["train", "test", "val"]
@@ -52,10 +59,10 @@ def main():
     
     # Evaluate on test and validation sets
     print("\nEvaluating on Test Set:")
-    evaluate_svm(model_path, data["test"][0], data["test"][1])
+    evaluate_svm(model_path, data["test"][0], data["test"][1], "test_report.txt")
     
     print("\nEvaluating on Validation Set:")
-    evaluate_svm(model_path, data["val"][0], data["val"][1])
+    evaluate_svm(model_path, data["val"][0], data["val"][1], "val_report.txt")
     
 if __name__ == "__main__":
     main()
