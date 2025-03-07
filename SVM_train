@@ -12,7 +12,7 @@ def load_features(feature_file):
     with open(feature_file, 'r') as f:
         for line in f:
             if line.startswith("Action:"):
-                action_name = line.split(",")[0].split(": ")[1]
+                action_name = line.split(",")[0].split(": ")[1] # Extract action label
             elif line.strip() and not line.startswith("#"):
                 feature_vector = np.array([float(x) for x in line.strip().split(',')])
                 features.append(feature_vector)
@@ -24,9 +24,9 @@ def train_svm(train_features, train_labels, model_path, label_encoder):
     print("Train Features:", train_features)
     print("Train Labels:", label_encoder.inverse_transform(train_labels))
     
-    clf = SVC(kernel='linear', probability=True)
-    clf.fit(train_features, train_labels)
-    joblib.dump(clf, model_path)
+    clf = SVC(kernel='linear', probability=True) # Using a linear kernel for SVM
+    clf.fit(train_features, train_labels) # Train the SVM model
+    joblib.dump(clf, model_path) # Save the trained model
     print("SVM model trained and saved to", model_path)
 
 def evaluate_svm(model_path, test_features, test_labels, report_file, label_encoder):
@@ -34,17 +34,18 @@ def evaluate_svm(model_path, test_features, test_labels, report_file, label_enco
     print("Test Features:", test_features)
     print("Test Labels:", label_encoder.inverse_transform(test_labels))
     
-    clf = joblib.load(model_path)
-    predictions = clf.predict(test_features)
+    clf = joblib.load(model_path) # Load the trained model
+    predictions = clf.predict(test_features) # Predict labels for test set
     
     print("Predictions:", label_encoder.inverse_transform(predictions))
     
-    acc = accuracy_score(test_labels, predictions)
-    report = classification_report(test_labels, predictions, target_names=label_encoder.classes_)
+    acc = accuracy_score(test_labels, predictions) # Calculate accuracy
+    report = classification_report(test_labels, predictions, target_names=label_encoder.classes_) # Generate classification report
     
     print("Accuracy:", acc)
     print("Classification Report:\n", report)
     
+    # Save evaluation report to a file
     with open(report_file, 'w') as f:
         f.write(f"Accuracy: {acc}\n\n")
         f.write("Classification Report:\n")
