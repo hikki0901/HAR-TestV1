@@ -19,19 +19,28 @@ def load_features(feature_file):
                 labels.append(action_name)
     return np.array(features), np.array(labels)
 
-def train_svm(train_features, train_labels, model_path):
+def train_svm(train_features, train_labels, model_path, label_encoder):
     #Train an SVM classifier using the extracted features and save the trained model.
+    print("Train Features:", train_features)
+    print("Train Labels:", label_encoder.inverse_transform(train_labels))
+    
     clf = SVC(kernel='linear', probability=True)
     clf.fit(train_features, train_labels)
     joblib.dump(clf, model_path)
     print("SVM model trained and saved to", model_path)
 
-def evaluate_svm(model_path, test_features, test_labels, report_file):
+def evaluate_svm(model_path, test_features, test_labels, report_file, label_encoder):
     #Load the trained SVM model, evaluate it on test features, and save the classification report.
+    print("Test Features:", test_features)
+    print("Test Labels:", label_encoder.inverse_transform(test_labels))
+    
     clf = joblib.load(model_path)
     predictions = clf.predict(test_features)
+    
+    print("Predictions:", label_encoder.inverse_transform(predictions))
+    
     acc = accuracy_score(test_labels, predictions)
-    report = classification_report(test_labels, predictions)
+    report = classification_report(test_labels, predictions, target_names=label_encoder.classes_)
     
     print("Accuracy:", acc)
     print("Classification Report:\n", report)
@@ -42,7 +51,6 @@ def evaluate_svm(model_path, test_features, test_labels, report_file):
         f.write(report)
 
 def main():
-    #Main function to load features, train the model, and evaluate it on test and validation sets.
     dataset_splits = ["train", "test", "val"]
     feature_files = {split: f"combined_features_{split}.txt" for split in dataset_splits}
     
@@ -59,14 +67,14 @@ def main():
     
     # Train SVM
     model_path = "svm_har_model.pkl"
-    train_svm(data["train"][0], data["train"][1], model_path)
+    train_svm(data["train"][0], data["train"][1], model_path, label_encoder)
     
     # Evaluate on test and validation sets
     print("\nEvaluating on Test Set:")
-    evaluate_svm(model_path, data["test"][0], data["test"][1], "test_report.txt")
+    evaluate_svm(model_path, data["test"][0], data["test"][1], "test_report.txt", label_encoder)
     
     print("\nEvaluating on Validation Set:")
-    evaluate_svm(model_path, data["val"][0], data["val"][1], "val_report.txt")
+    evaluate_svm(model_path, data["val"][0], data["val"][1], "val_report.txt", label_encoder)
     
 if __name__ == "__main__":
     main()

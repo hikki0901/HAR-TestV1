@@ -1,20 +1,20 @@
 Accuracy: 0.9393939393939394
 
 Classification Report:
-              precision    recall  f1-score   support
+                    precision    recall  f1-score   support
 
-           0       0.75      1.00      0.86         3
-           1       1.00      0.67      0.80         3
-           2       1.00      1.00      1.00         3
-           3       1.00      1.00      1.00         3
-           4       1.00      1.00      1.00         3
-           5       1.00      1.00      1.00         3
-           6       1.00      1.00      1.00         3
-           7       1.00      0.67      0.80         3
-           8       1.00      1.00      1.00         3
-           9       1.00      1.00      1.00         3
-          10       0.75      1.00      0.86         3
+        basketball       0.75      1.00      0.86         3
+            biking       1.00      0.67      0.80         3
+            diving       1.00      1.00      1.00         3
+        golf_swing       1.00      1.00      1.00         3
+      horse_riding       1.00      1.00      1.00         3
+   soccer_juggling       1.00      1.00      1.00         3
+             swing       1.00      1.00      1.00         3
+      tennis_swing       1.00      0.67      0.80         3
+trampoline_jumping       1.00      1.00      1.00         3
+volleyball_spiking       1.00      1.00      1.00         3
+           walking       0.75      1.00      0.86         3
 
-    accuracy                           0.94        33
-   macro avg       0.95      0.94      0.94        33
-weighted avg       0.95      0.94      0.94        33
+          accuracy                           0.94        33
+         macro avg       0.95      0.94      0.94        33
+      weighted avg       0.95      0.94      0.94        33
