@@ -1,0 +1,1100 @@
+Action: basketball
+Image: frame_107.jpg
+Tags: athletic | basketball | basketball court | basketball game | basketball hoop | court | game | gym | person | indoor | man | play | stand
+----------------------------------------
+Action: basketball
+Image: frame_111.jpg
+Tags: athletic | badminton | ball | basketball | basketball court | basketball game | court | floor | gym | person | man | play | racket | stand | wood floor
+----------------------------------------
+Action: basketball
+Image: frame_119.jpg
+Tags: alley | basketball court | basketball hoop | building | doorway
+----------------------------------------
+Action: basketball
+Image: frame_103.jpg
+Tags: basketball | basketball court | basketball game | basketball hoop | boy | child | court | person | man | play
+----------------------------------------
+Action: basketball
+Image: frame_110.jpg
+Tags: athletic | ball | basketball | basketball court | basketball game | basketball team | court | game | gym | person | man | play | player | referee
+----------------------------------------
+Action: basketball
+Image: frame_100.jpg
+Tags: ball | basketball | basketball court | basketball hoop | boy | court | dunk | man | night | play | shirt | stand
+----------------------------------------
+Action: basketball
+Image: frame_100.jpg
+Tags: athletic | basketball | basketball court | basketball game | basketball hoop | boy | court | dribble | floor | gym | person | man | play
+----------------------------------------
+Action: basketball
+Image: frame_10.jpg
+Tags: ball | boy | catch | court | hand | girl | man | play | sports ball | stand | woman
+----------------------------------------
+Action: basketball
+Image: frame_100.jpg
+Tags: ball | basketball court | boy | court | person | man | play | racket | stand | swing | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: basketball
+Image: frame_102.jpg
+Tags: arena | basketball | basketball court | basketball game | court | game | gym | person | man | play | stand
+----------------------------------------
+Action: basketball
+Image: frame_104.jpg
+Tags: ball | court | person | man | play | racket | swing | swinge | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: basketball
+Image: frame_136.jpg
+Tags: arena | athletic | ball | basketball | basketball court | basketball game | basketball player | pillar | court | dribble | game | gym | person | man | play | player | stand
+----------------------------------------
+Action: basketball
+Image: frame_120.jpg
+Tags: arena | athletic | basketball | basketball court | basketball game | basketball hoop | court | dribble | floor | gym | indoor | man | play | stand
+----------------------------------------
+Action: basketball
+Image: frame_130.jpg
+Tags: basketball | basketball court | basketball hoop | boy | dunk | girl | man | play | stand | trailer
+----------------------------------------
+Action: basketball
+Image: frame_111.jpg
+Tags: athletic | ball | basketball | basketball court | basketball game | boy | child | court | gym | indoor | man | play | stand
+----------------------------------------
+Action: basketball
+Image: frame_130.jpg
+Tags: basketball | basketball court | basketball game | basketball hoop | bin | boy | court | house exterior | man | play | stand | walk
+----------------------------------------
+Action: basketball
+Image: frame_104.jpg
+Tags: athletic | ball | basketball | basketball court | basketball hoop | boy | catch | man | muscle | play | shirt | shirtless | short | stand
+----------------------------------------
+Action: basketball
+Image: frame_101.jpg
+Tags: basketball court | ceiling | court | facility | gym | hangar | person | indoor | man | play | sport equipment | stand
+----------------------------------------
+Action: basketball
+Image: frame_100.jpg
+Tags: athletic | ball | basketball | basketball court | basketball game | basketball hoop | boy | court | dribble | floor | gym | man | play | stand
+----------------------------------------
+Action: basketball
+Image: frame_104.jpg
+Tags: basketball | basketball court | basketball game | basketball hoop | boy | couple | court | person | man | play | stand | walk
+----------------------------------------
+Action: basketball
+Image: frame_129.jpg
+Tags: ball | basketball | basketball court | basketball hoop | boy | court | jump | house exterior | man | play
+----------------------------------------
+Action: basketball
+Image: frame_100.jpg
+Tags: basketball | basketball court | boy | court | person | man | park | play | stand
+----------------------------------------
+Action: basketball
+Image: frame_103.jpg
+Tags: alley | basketball court | basketball hoop | building | door | doorway | person | man | stand
+----------------------------------------
+Action: basketball
+Image: frame_0.jpg
+Tags: basketball | basketball court | boy | child | court | person | man | play | racket | stand
+----------------------------------------
+Action: basketball
+Image: frame_107.jpg
+Tags: boy | jump | person | skate | man | play | ramp | skate park | skateboarder | skater | trick
+----------------------------------------
+Action: biking
+Image: frame_150.jpg
+Tags: bicycle | court | person | man | play | racket | ride | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: biking
+Image: frame_146.jpg
+Tags: bicycle | bicycle helmet | biker | dirt track | person | man | pole | ride | scooter | skateboarder | stand
+----------------------------------------
+Action: biking
+Image: frame_132.jpg
+Tags: bicycle | child | girl | park | pavement | pink | ride | shirt | street sign | woman
+----------------------------------------
+Action: biking
+Image: frame_107.jpg
+Tags: bicycle | bicycle helmet | biker | person | man | ride | road | shirt | wear | yellow
+----------------------------------------
+Action: biking
+Image: frame_132.jpg
+Tags: bicycle | bicycle helmet | biker | person | man | ride | road | shirt
+----------------------------------------
+Action: biking
+Image: frame_100.jpg
+Tags: bicycle | bicycle helmet | bike path | boy | car | highway | person | man | ride | road | shirt
+----------------------------------------
+Action: biking
+Image: frame_142.jpg
+Tags: bicycle | bicycle helmet | biker | bike path | cycle | highway | helmet | person | man | race | ride | road
+----------------------------------------
+Action: biking
+Image: frame_122.jpg
+Tags: bicycle | bicycle helmet | biker | bike lane | car | city street | crowded | person | man | ride | road
+----------------------------------------
+Action: biking
+Image: frame_101.jpg
+Tags: bicycle | bicycle helmet | biker | cycle | helmet | person | man | pink | red | ride | road | shirt | street sign | wear
+----------------------------------------
+Action: biking
+Image: frame_100.jpg
+Tags: bicycle | bicycle helmet | biker | cycle | helmet | person | man | ride | road
+----------------------------------------
+Action: biking
+Image: frame_128.jpg
+Tags: attach | bicycle | bicycle helmet | catch | hand | person | man | ride | scooter
+----------------------------------------
+Action: biking
+Image: frame_119.jpg
+Tags: bicycle | bicycle helmet | biker | court | person | man | racket | ride | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: biking
+Image: frame_1.jpg
+Tags: bicycle | biker | cycle | person | man | ride | road
+----------------------------------------
+Action: biking
+Image: frame_125.jpg
+Tags: bicycle | girl | grass | park | pink | ride | woman
+----------------------------------------
+Action: biking
+Image: frame_19.jpg
+Tags: bend | bicycle | bicycle helmet | biker | helmet | man | red | ride | shirt | wear | yellow
+----------------------------------------
+Action: biking
+Image: frame_166.jpg
+Tags: bicycle | bicycle helmet | biker | person | man | ride | road | rural
+----------------------------------------
+Action: biking
+Image: frame_13.jpg
+Tags: bicycle | bicycle helmet | biker | cycle | dirt track | man | race | ride | wear
+----------------------------------------
+Action: biking
+Image: frame_150.jpg
+Tags: bicycle | bicycle helmet | boy | child | helmet | man | park | ride | trick | wear
+----------------------------------------
+Action: biking
+Image: frame_150.jpg
+Tags: bicycle | child | path | girl | pink | ride
+----------------------------------------
+Action: biking
+Image: frame_116.jpg
+Tags: bicycle | man | phone | ride | selfie | talk | woman
+----------------------------------------
+Action: biking
+Image: frame_1.jpg
+Tags: bend | bicycle | bicycle helmet | biker | dirt track | man | race | red | ride | wear
+----------------------------------------
+Action: biking
+Image: frame_140.jpg
+Tags: biker | flood | person | man | motorcycle | motorcyclist | ride | road | rural | tree
+----------------------------------------
+Action: biking
+Image: frame_117.jpg
+Tags: bicycle | biker | bus | car | city bus | drive | food truck | person | man | park | ride | road | tour bus
+----------------------------------------
+Action: biking
+Image: frame_111.jpg
+Tags: alley | building | car | city street | drive | person | license plate | man | park | road | van | walk | white
+----------------------------------------
+Action: biking
+Image: frame_118.jpg
+Tags: bicycle | bicycle helmet | biker | person | man | ride | road | rural | sky
+----------------------------------------
+Action: diving
+Image: frame_13.jpg
+Tags: swimwear | boy | diving board | goggles | jump | person | man | pool | stand | swimmer | swimming pool | water
+----------------------------------------
+Action: diving
+Image: frame_122.jpg
+Tags: boat | diving board | man | pool | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_102.jpg
+Tags: swimwear | beach chair | chair | daybed | outdoor | pool | slide | swimming pool | umbrella | water park
+----------------------------------------
+Action: diving
+Image: frame_1.jpg
+Tags: swimwear | dive | diver | diving board | jump | person | man | night | pool | stand | swim | swimmer | swimming pool | water
+----------------------------------------
+Action: diving
+Image: frame_100.jpg
+Tags: swimwear | bulletin board | ceiling | dive | diver | goggles | person | indoor | man | pool | swim | swim cap | swimmer | swimming pool | tile wall | water
+----------------------------------------
+Action: diving
+Image: frame_11.jpg
+Tags: ceiling | diving board | indoor | pool | room | swim | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_157.jpg
+Tags: boat | cart | person | man | sea | stand | water
+----------------------------------------
+Action: diving
+Image: frame_138.jpg
+Tags: gym | person | indoor | pool | room | swim | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_1.jpg
+Tags: beach chair | chair | daybed | couple | person | pool | relax | sit | swimming pool | umbrella | water park | woman
+----------------------------------------
+Action: diving
+Image: frame_100.jpg
+Tags: outdoor | pool | swimmer | swimming pool | water park
+----------------------------------------
+Action: diving
+Image: frame_121.jpg
+Tags: swimwear | diving board | person | man | pool | stand | swimmer | swimming pool | woman
+----------------------------------------
+Action: diving
+Image: frame_157.jpg
+Tags: daybed | pool | swimming pool | umbrella
+----------------------------------------
+Action: diving
+Image: frame_108.jpg
+Tags: diving board | person | indoor | pool | swim | swimmer | swimming pool | woman
+----------------------------------------
+Action: diving
+Image: frame_2.jpg
+Tags: daybed | pillar | diving board | sea | pool | raft | swimmer | swimming pool | whale
+----------------------------------------
+Action: diving
+Image: frame_12.jpg
+Tags: building | diver | diving board | person | man | night | pool | stand | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_110.jpg
+Tags: blue | building | ceiling | pillar | goggles | person | indoor | pool | swim | swimmer | swimming pool | water
+----------------------------------------
+Action: diving
+Image: frame_10.jpg
+Tags: athletic | swimwear | building | ceiling | diver | diving board | equipment | floor | goggles | indoor | man | pool | swim | swimmer | swimming pool | warehouse
+----------------------------------------
+Action: diving
+Image: frame_104.jpg
+Tags: swimwear | diving board | hospital bed | hospital room | person | indoor | pool | room | swim | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_114.jpg
+Tags: building | ceiling | pillar | diving board | floor | person | indoor | pool | stool | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_105.jpg
+Tags: beach chair | chair | daybed | diving board | folding chair | person | man | pool | sit | stool | swimmer | swimming pool | woman
+----------------------------------------
+Action: diving
+Image: frame_142.jpg
+Tags: diving board | goggles | person | man | pool | swim | swimmer | swimming pool | water
+----------------------------------------
+Action: diving
+Image: frame_116.jpg
+Tags: swimwear | ceiling | diver | diving board | goggles | person | indoor | life jacket | man | pool | swim | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_132.jpg
+Tags: swimwear | diving board | goggles | person | indoor | man | pool | stand | swim | swimmer | swimming pool | water
+----------------------------------------
+Action: diving
+Image: frame_103.jpg
+Tags: ceiling | person | rink | skate | indoor | man | pool | stand | swimmer | swimming pool
+----------------------------------------
+Action: diving
+Image: frame_104.jpg
+Tags: diving board | floor | person | man | pool | swimmer | swimming pool
+----------------------------------------
+Action: golf_swing
+Image: frame_171.jpg
+Tags: club | course | golf | golf cart | golf club | golf course | golfer | man | play | shirt | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_116.jpg
+Tags: ball | baseball | baseball bat | baseball hat | baseball glove | baseball uniform | bat | batter | boy | catch | home | house | house exterior | lawn | man | play | porch | shirt | swing | swinge | tee | yard
+----------------------------------------
+Action: golf_swing
+Image: frame_112.jpg
+Tags: baseball bat | baseball glove | bat | field | floor | gun | person | man | plain | sky | stand | sun
+----------------------------------------
+Action: golf_swing
+Image: frame_121.jpg
+Tags: CD | daylight | field | frisbee | grass | grassy | green | person | lush | man | park | play | sky | stand
+----------------------------------------
+Action: golf_swing
+Image: frame_100.jpg
+Tags: ball | bat | beat | club | course | golf | golf club | golf course | golfer | green | hole | man | play | shirt | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_108.jpg
+Tags: bat | club | game | golf | golf club | golf course | golfer | green | person | lush | man | park | play | stand | swing | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_100.jpg
+Tags: ball | cricket | game | golf | golf club | golf course | golfer | green | man | play | swing | swinge
+----------------------------------------
+Action: golf_swing
+Image: frame_133.jpg
+Tags: bin | boy | catch | man | play | shirt | short | stand | swing | walk
+----------------------------------------
+Action: golf_swing
+Image: frame_116.jpg
+Tags: ball | baseball bat | bat | golf | golf club | golf course | golfer | green | man | mat | swing | swinge | tee | woman
+----------------------------------------
+Action: golf_swing
+Image: frame_106.jpg
+Tags: area | boy | dirt track | forest | person | man | shirt | short | stand | trail | tree | walk | wood
+----------------------------------------
+Action: golf_swing
+Image: frame_100.jpg
+Tags: ball | bat | beat | club | course | golf | golf club | golf course | golfer | green | hole | lush | man | play | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_101.jpg
+Tags: ball | bat | club | course | golf | golf club | golf course | golfer | green | hole | man | play | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_2.jpg
+Tags: ball | club | course | golf | golf club | golf course | golfer | green | hole | man | play | red | shirt | stand | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_108.jpg
+Tags: ball | beat | club | course | golf | golf club | golf course | golfer | green | hole | person | man | play | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_163.jpg
+Tags: ball | club | course | game | golf | golf club | golf course | golfer | green | hole | person | man | play | putt | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_121.jpg
+Tags: ball | club | course | crowd | golf | golf club | golf course | golfer | green | hole | person | man | play | putt | swing | tee | walk
+----------------------------------------
+Action: golf_swing
+Image: frame_12.jpg
+Tags: ball | golf | golf club | golf course | golfer | grass | green | person | khaki | lush | man | play | stand | sweatshirt | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_114.jpg
+Tags: ball | baseball | baseball bat | bat | batter | beat | golf club | golf course | golfer | person | man | play | swing | swinge | tee | woman
+----------------------------------------
+Action: golf_swing
+Image: frame_110.jpg
+Tags: ball | club | course | golf | golf club | golf course | golfer | green | hole | person | man | play | shirt | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_117.jpg
+Tags: ball | baseball bat | bat | catch | golf club | golf course | golfer | grass | green | lush | man | park | play | shirt | short | stand | swing | swinge | yellow
+----------------------------------------
+Action: golf_swing
+Image: frame_109.jpg
+Tags: ball | baseball bat | bat | chase | field | golf club | golf course | golfer | person | man | play | sweatshirt | swing | tee | walk
+----------------------------------------
+Action: golf_swing
+Image: frame_133.jpg
+Tags: ball | course | game | golf | golf club | golf course | golfer | green | person | man | play | putt | shirt | swing | swinge | tee | woman
+----------------------------------------
+Action: golf_swing
+Image: frame_103.jpg
+Tags: ball | club | course | golf | golf club | golf course | golfer | green | man | play | putt | swing | swinge | tee
+----------------------------------------
+Action: golf_swing
+Image: frame_106.jpg
+Tags: ball | bend | blue | club | course | golf | golf club | golf course | golfer | green | hole | person | play | putt | shirt | swing | swinge | tee | woman
+----------------------------------------
+Action: golf_swing
+Image: frame_104.jpg
+Tags: ball | club | course | golf | golf club | golf course | golfer | green | hole | man | play | putt | red | shirt | swing | swinge | tee
+----------------------------------------
+Action: horse_riding
+Image: frame_1.jpg
+Tags: arena | back | brown | corral | dirt field | dirt track | enclosure | equestrian | horse | girl | person | paddock | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_119.jpg
+Tags: arena | back | barn | corral | enclosure | fence | flood | horse | horseback | person | jockey | man | pen | ride | stable
+----------------------------------------
+Action: horse_riding
+Image: frame_109.jpg
+Tags: arena | back | brown | corral | dirt field | dirt track | enclosure | horse | girl | person | jockey | man | pen | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_126.jpg
+Tags: back | horse | girl | horseback | person | lush | man | ride | tree | white | woman | wood
+----------------------------------------
+Action: horse_riding
+Image: frame_1.jpg
+Tags: back | brown | pony | field | horse | girl | grass | grassy | green | person | jockey | lush | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_13.jpg
+Tags: arena | brown | dirt field | dirt track | equestrian | horse | person | jockey | man | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_179.jpg
+Tags: arena | back | brown | corral | cowboy | cowboy hat | dirt field | dirt track | horse | horseback | person | man | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_150.jpg
+Tags: pony | horse | horseback | person | man | ride | road | white
+----------------------------------------
+Action: horse_riding
+Image: frame_1.jpg
+Tags: couple | dirt road | dirt track | horse | horseback | person | man | ride | tree | white
+----------------------------------------
+Action: horse_riding
+Image: frame_184.jpg
+Tags: arena | barrier | brown | cone | corral | enclosure | equestrian | fence | horse | person | hurdle | jockey | man | obstacle course | paddock | pen | pole | ride | stable | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_120.jpg
+Tags: barrier | course | dirt field | dirt track | equestrian | fence | floor | horse | jump | hurdle | jockey | man | obstacle course | pole | rail
+----------------------------------------
+Action: horse_riding
+Image: frame_11.jpg
+Tags: dirt field | dirt track | field | horse | horseback | person | jockey | man | play | polo | ride | white
+----------------------------------------
+Action: horse_riding
+Image: frame_162.jpg
+Tags: back | pony | field | horse | grassy | green | horseback | person | jockey | lush | man | ride | white | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_115.jpg
+Tags: area | back | brown | cowboy hat | dirt track | enclosure | horse | horseback | person | man | rein | ride | saddle | tree | walk
+----------------------------------------
+Action: horse_riding
+Image: frame_10.jpg
+Tags: animal | back | boy | child | pony | corral | cowboy hat | dirt field | enclosure | horse | girl | hay | horseback | person | hut | man | ride | white
+----------------------------------------
+Action: horse_riding
+Image: frame_104.jpg
+Tags: arena | barrier | course | dirt field | dirt track | enclosure | equestrian | fence | horse | jump | person | hurdle | jockey | man | obstacle course | pole | rail | ramp | ride | stand | trick | white | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_1.jpg
+Tags: back | black | dirt field | dirt track | field | horse | person | jockey | rider | man | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_12.jpg
+Tags: field | horse | football field | person | jockey | man | polo | ride
+----------------------------------------
+Action: horse_riding
+Image: frame_1.jpg
+Tags: brown | equestrian | fence | horse | girl | jump | person | hurdle | jockey | rider | man | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_139.jpg
+Tags: arena | corral | dirt field | dirt track | enclosure | fence | horse | horseback | person | jockey | man | ride | stand
+----------------------------------------
+Action: horse_riding
+Image: frame_126.jpg
+Tags: back | brown | pony | equestrian | horse | girl | jump | person | hurdle | jockey | rider | pole | ride | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_13.jpg
+Tags: arena | brown | dirt track | horse | person | jockey | rider | man | ride
+----------------------------------------
+Action: horse_riding
+Image: frame_125.jpg
+Tags: cloudy | field | grass | grassy | green | person | lush | man | open | park | sky | stand | tree
+----------------------------------------
+Action: horse_riding
+Image: frame_10.jpg
+Tags: back | blanket | horse | horseback | person | jockey | rider | man | plain | ride | sand | white | woman
+----------------------------------------
+Action: horse_riding
+Image: frame_19.jpg
+Tags: arena | back | dirt field | dirt track | horse | person | jockey | man | ride | white | woman
+----------------------------------------
+Action: soccer_juggling
+Image: frame_202.jpg
+Tags: ball | catch | man | play | room | shirt | short
+----------------------------------------
+Action: soccer_juggling
+Image: frame_171.jpg
+Tags: ball | bat | boy | man | net | play | racket | short | swing | swinge | tennis racket
+----------------------------------------
+Action: soccer_juggling
+Image: frame_109.jpg
+Tags: ball | blue | boy | court | football | kick | man | play | racket | stand | stretch | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: soccer_juggling
+Image: frame_164.jpg
+Tags: ball | boy | catch | football | football field | football player | kick | man | pavement | short | stand
+----------------------------------------
+Action: soccer_juggling
+Image: frame_239.jpg
+Tags: boy | person | man | pavement | skate park | skateboarder | walk
+----------------------------------------
+Action: soccer_juggling
+Image: frame_120.jpg
+Tags: boy | person | skate | man | red | ride | shirt | skateboard | skateboarder | trick
+----------------------------------------
+Action: soccer_juggling
+Image: frame_2.jpg
+Tags: ball | blue | bowling ball | boy | catch | child | field | girl | grass | grassy | green | lush | play | red | shirt | stand | swinge | yard
+----------------------------------------
+Action: soccer_juggling
+Image: frame_300.jpg
+Tags: ball | boy | field | football | football field | football game | football player | grass | kick | lush | man | play | stand | walk
+----------------------------------------
+Action: soccer_juggling
+Image: frame_110.jpg
+Tags: boy | pillar | person | man | pavement | racket | ride | skateboarder | swing | swinge | tennis player | tennis racket
+----------------------------------------
+Action: soccer_juggling
+Image: frame_138.jpg
+Tags: person | skate | man | ride | road | skateboard | skateboarder | umbrella | walk
+----------------------------------------
+Action: soccer_juggling
+Image: frame_224.jpg
+Tags: baseball bat | boy | curb | person | man | pavement | road | scooter | skateboarder
+----------------------------------------
+Action: soccer_juggling
+Image: frame_108.jpg
+Tags: football field | football game | game | person | man | play | racket | stand | tennis player | tennis racket
+----------------------------------------
+Action: soccer_juggling
+Image: frame_250.jpg
+Tags: dirt field | dirt road | dirt track | person | man | mountain | stand
+----------------------------------------
+Action: soccer_juggling
+Image: frame_146.jpg
+Tags: ball | boy | chase | pillar | football | house exterior | kick | man | pavement | play | porch | short | white
+----------------------------------------
+Action: soccer_juggling
+Image: frame_130.jpg
+Tags: ball | child | field | football | girl | grass | kick | night | play | red | shirt | stand | wear | white | woman | yard
+----------------------------------------
+Action: soccer_juggling
+Image: frame_171.jpg
+Tags: backyard | ball | boy | chase | child | football | grass | kick | man | play | red | shirt | yard
+----------------------------------------
+Action: soccer_juggling
+Image: frame_180.jpg
+Tags: basketball hoop | cone | floor | person | man | motorcycle | pole | skateboarder | sky | street sign
+----------------------------------------
+Action: soccer_juggling
+Image: frame_300.jpg
+Tags: boy | person | skate | man | ride | scooter | skateboard | skateboarder | sky | stand | trick | walk
+----------------------------------------
+Action: soccer_juggling
+Image: frame_187.jpg
+Tags: ball | boy | catch | field | football | football field | football game | kick | man | play | shirt | stand
+----------------------------------------
+Action: soccer_juggling
+Image: frame_200.jpg
+Tags: ball | bin | blue | building | catch | football | man | scaffold | shirt | short | stand | walk
+----------------------------------------
+Action: soccer_juggling
+Image: frame_239.jpg
+Tags: ball | boy | football | house exterior | kick | man | play | stand
+----------------------------------------
+Action: soccer_juggling
+Image: frame_118.jpg
+Tags: ball | boy | chase | field | frisbee | grass | grassy | green | person | lush | man | park | play | short | tree | yard
+----------------------------------------
+Action: soccer_juggling
+Image: frame_13.jpg
+Tags: ball | boy | catch | child | field | girl | grass | grassy | green | head | lush | play | stand | wear | white
+----------------------------------------
+Action: soccer_juggling
+Image: frame_117.jpg
+Tags: ball | chase | field | football | grass | grassy | green | kick | lush | man | park | play | short | stand | tree
+----------------------------------------
+Action: soccer_juggling
+Image: frame_108.jpg
+Tags: alley | ball | chase | doorway | football | football player | kick | man | play
+----------------------------------------
+Action: swing
+Image: frame_1.jpg
+Tags: area | boy | dirt track | forest | person | lush | man | ride | trail | tree | wood
+----------------------------------------
+Action: swing
+Image: frame_108.jpg
+Tags: baby | boy | child | park | play | playground | smile | swing | swinge | toddler
+----------------------------------------
+Action: swing
+Image: frame_107.jpg
+Tags: boy | child | flip | green | man | pole | shirt | skateboarder | stunt | swing | swinge | trick
+----------------------------------------
+Action: swing
+Image: frame_13.jpg
+Tags: boy | child | man | park | play | playground | slide | swing | swinge | toy
+----------------------------------------
+Action: swing
+Image: frame_103.jpg
+Tags: boy | child | girl | park | play | playground | safety vest | swing | swinge | vest | wear
+----------------------------------------
+Action: swing
+Image: frame_12.jpg
+Tags: boy | child | girl | play | playground | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_134.jpg
+Tags: boy | canopy | child | girl | play | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_144.jpg
+Tags: backyard | boy | chase | child | girl | grass | house exterior | play | playground | pole | slide | swing | swinge | toy | yard
+----------------------------------------
+Action: swing
+Image: frame_150.jpg
+Tags: child | girl | park | play | playground | push | slide | swing | swinge | toy
+----------------------------------------
+Action: swing
+Image: frame_126.jpg
+Tags: backyard | child | girl | swing | swinge | yard
+----------------------------------------
+Action: swing
+Image: frame_13.jpg
+Tags: boy | child | park | play | playground | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_150.jpg
+Tags: attach | child | girl | ride | swing | swinge | woman
+----------------------------------------
+Action: swing
+Image: frame_190.jpg
+Tags: backyard | child | girl | play | swing | swinge | toy
+----------------------------------------
+Action: swing
+Image: frame_117.jpg
+Tags: boy | brush | cage | catch | chair | child | feeding chair | hand | food | mouth | selfie | swing | toddler | toy
+----------------------------------------
+Action: swing
+Image: frame_10.jpg
+Tags: boy | child | person | man | park | play | playground | slide | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_129.jpg
+Tags: boy | child | girl | person | man | pole | swing | swinge | trick
+----------------------------------------
+Action: swing
+Image: frame_190.jpg
+Tags: boy | child | girl | play | playground | slide | smile | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_138.jpg
+Tags: child | girl | laugh | park | pink | play | slide | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_138.jpg
+Tags: attach | child | girl | pink | play | swing | swinge | toy
+----------------------------------------
+Action: swing
+Image: frame_105.jpg
+Tags: boy | child | flood | man | mud | park | play | playground | pole | puddle | slide | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_114.jpg
+Tags: boy | child | girl | play | swing | swinge | woman
+----------------------------------------
+Action: swing
+Image: frame_119.jpg
+Tags: child | girl | park | play | swing | swinge
+----------------------------------------
+Action: swing
+Image: frame_150.jpg
+Tags: backyard | boy | chase | child | dog | girl | grass | jump | play | swing | swinge | yard
+----------------------------------------
+Action: swing
+Image: frame_150.jpg
+Tags: boy | child | play | red | shirt | swing | swinge | wear
+----------------------------------------
+Action: swing
+Image: frame_188.jpg
+Tags: child | girl | park | play | playground | sand | sand box | stand | swing | swinge
+----------------------------------------
+Action: tennis_swing
+Image: frame_76.jpg
+Tags: catch | court | girl | person | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_123.jpg
+Tags: ball | bat | catch | court | person | man | play | racket | sweatshirt | swing | swinge | tennis | tennis court | tennis player | tennis racket | yellow
+----------------------------------------
+Action: tennis_swing
+Image: frame_61.jpg
+Tags: ball | catch | court | person | image | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_121.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_10.jpg
+Tags: ball | catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_138.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_121.jpg
+Tags: person | skate | man | puddle | ride | skateboard | skateboarder | stand | tennis racket | trick | walk
+----------------------------------------
+Action: tennis_swing
+Image: frame_118.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_100.jpg
+Tags: ball | boy | court | person | man | play | racket | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_111.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_124.jpg
+Tags: ball | catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_186.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_139.jpg
+Tags: ball | beat | court | man | play | racket | swing | swinge | tennis | tennis court | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_112.jpg
+Tags: ball | catch | court | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_116.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_175.jpg
+Tags: ball | catch | court | person | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket | woman
+----------------------------------------
+Action: tennis_swing
+Image: frame_176.jpg
+Tags: ball | catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_142.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_11.jpg
+Tags: catch | ceiling | court | person | indoor | man | play | racket | stand | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_120.jpg
+Tags: ball | catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_101.jpg
+Tags: ball | catch | court | man | play | racket | short | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_121.jpg
+Tags: ball | basketball | basketball court | boy | court | gym | indoor | man | play | racket | stand
+----------------------------------------
+Action: tennis_swing
+Image: frame_119.jpg
+Tags: catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_102.jpg
+Tags: ball | catch | court | person | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis player | tennis racket
+----------------------------------------
+Action: tennis_swing
+Image: frame_227.jpg
+Tags: ball | catch | court | person | indoor | man | play | racket | stand | swing | swinge | tennis | tennis court | tennis match | tennis player | tennis racket
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_105.jpg
+Tags: boy | child | girl | jump | person | play | shirt | swinge | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_1.jpg
+Tags: boy | child | girl | jump | person | man | swing | swinge | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_14.jpg
+Tags: backyard | boy | child | girl | jump | play | swing | swinge | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_2.jpg
+Tags: backyard | boy | child | girl | jump | house exterior | man | play | shirt | swinge | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_112.jpg
+Tags: catch | couple | hand | girl | person | man | rail | shake | skateboarder | sky | stand | woman
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_180.jpg
+Tags: backyard | blue | child | floor | jump | snow | swing | swinge | trampoline | winter
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_2.jpg
+Tags: boy | child | girl | jump | play | sleepwear | stand | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_121.jpg
+Tags: boy | child | girl | person | man | photo | pose | stand | woman
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_10.jpg
+Tags: boy | child | girl | jump | rail | ramp | skateboarder | trampoline | trick
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_109.jpg
+Tags: boy | cloudy | jump | person | man | play | sky | stand | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_10.jpg
+Tags: backyard | boy | child | girl | jump | play | swing | swinge | trampoline | yard
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_111.jpg
+Tags: backyard | swimwear | blue | boy | child | girl | jump | play | toy | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_124.jpg
+Tags: boy | child | girl | jump | play | swing | toy | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_200.jpg
+Tags: boy | child | girl | jump | jumpsuit | sleepwear | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_10.jpg
+Tags: boy | child | jump | man | play | pole | street sign | swing | swinge | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_115.jpg
+Tags: boy | child | girl | jump | man | play | red | shirt | swing | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_12.jpg
+Tags: backyard | child | fence | jump | snow | swing | trampoline | winter | yard
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_135.jpg
+Tags: boy | child | girl | jump | play | swing | swinge | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_105.jpg
+Tags: child | girl | jump | play | roller skate
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_118.jpg
+Tags: black | boy | child | jump | person | man | net | photo | play | stand | swing | swinge | trampoline | white | woman
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_1.jpg
+Tags: backyard | boy | child | jump | knee pad | play | roller skate | shirt | shirtless | short | stand | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_114.jpg
+Tags: backyard | boy | child | girl | jump | person | man | night | play | stand | trampoline | woman
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_150.jpg
+Tags: boy | child | jump | man | play | trampoline
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_130.jpg
+Tags: person | man | skate park | skateboarder | tree | trick
+----------------------------------------
+Action: trampoline_jumping
+Image: frame_122.jpg
+Tags: boy | child | jump | man | swing | swinge | trampoline | tree
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_10.jpg
+Tags: athletic | ball | basketball | basketball court | catch | court | gym | indoor | man | play | racket | shirt | short | stand | swinge | tennis racket | yellow
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_111.jpg
+Tags: athletic | basketball | basketball court | basketball game | court | game | gym | person | indoor | man | net | play | volleyball | volleyball court | volleyball player
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_101.jpg
+Tags: basketball | basketball court | basketball game | court | game | gym | person | man | play | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_10.jpg
+Tags: arena | athletic | basketball court | basketball game | court | game | gym | person | indoor | man | play | volleyball | volleyball court | volleyball player | woman
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_103.jpg
+Tags: arena | basketball | basketball court | basketball game | basketball team | ceiling | court | game | gym | person | man | play | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_105.jpg
+Tags: badminton | basketball court | ceiling | court | game | gym | person | indoor | jump rope | man | net | play | racket | stand | tennis racket | volleyball court
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_52.jpg
+Tags: ceiling | man | room
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_109.jpg
+Tags: arena | athletic | badminton | basketball court | ceiling | couple | court | game | gym | person | indoor | man | play | racket | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_104.jpg
+Tags: cricket | dirt field | football field | football game | game | person | man | play | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_134.jpg
+Tags: cloudy | crowd | dirt field | field | game | person | play | sky | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_107.jpg
+Tags: arena | badminton | basketball court | basketball game | court | game | gym | hockey | person | indoor | man | play | volleyball | volleyball court
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_100.jpg
+Tags: basketball | basketball court | basketball game | court | football game | game | gym | hockey | person | man | play | player
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_101.jpg
+Tags: badminton | badminton racket | catch | court | floor | gym | person | indoor | man | play | racket | room | stand | tennis net | tennis player | tennis racket
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_39.jpg
+Tags: basketball | basketball court | basketball game | couple | court | game | gym | person | indoor | man | play | racket | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_101.jpg
+Tags: crowd | crowded | dirt field | dirt track | game | gathering | person | man | play | sky | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_128.jpg
+Tags: arena | baseball | cricket | crowd | crowded | dirt field | dirt track | football field | football game | game | gathering | person | man | play | stand
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_103.jpg
+Tags: athletic | badminton | basketball court | basketball game | boy | child | court | game | gym | person | indoor | man | play | racket | volleyball court
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_111.jpg
+Tags: ball | basketball | basketball court | basketball game | basketball team | court | game | gym | person | man | play
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_100.jpg
+Tags: badminton | basketball court | boy | court | game | gym | person | indoor | man | net | play | racket | stand | tennis racket | volleyball | volleyball court
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_12.jpg
+Tags: athletic | ball | basketball | basketball court | boy | catch | ceiling | court | gym | head | indoor | man | play | racket | shirt | stand | yellow
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_105.jpg
+Tags: athletic | basketball court | basketball game | court | floor | game | gym | person | indoor | man | net | play | stand | volleyball | volleyball court | volleyball player
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_110.jpg
+Tags: arena | athletic | basketball court | basketball game | ceiling | pillar | court | game | gym | person | indoor | man | net | play | player | stand | volleyball | volleyball court | volleyball player
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_118.jpg
+Tags: athletic | basketball court | boy | child | court | floor | game | gym | person | indoor | man | net | play | stand | volleyball | volleyball court | volleyball player
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_100.jpg
+Tags: athletic | beach volleyball | court | game | girl | gym | person | net | play | stool | volleyball | volleyball court | volleyball player | woman
+----------------------------------------
+Action: volleyball_spiking
+Image: frame_100.jpg
+Tags: arena | basketball | basketball court | basketball game | basketball team | bleacher | court | game | gym | person | man | play | stand
+----------------------------------------
+Action: walking
+Image: frame_126.jpg
+Tags: dog | path | person | leash | man | park | pavement | road | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_13.jpg
+Tags: blanket | dog | girl | leash | pavement | pet | road | snow | snowy | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_123.jpg
+Tags: blanket | snow | snowy | tree | walk
+----------------------------------------
+Action: walking
+Image: frame_119.jpg
+Tags: curb | girl | person | man | pavement | ride | road | scooter | shirt | skateboarder | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_133.jpg
+Tags: boy | chase | dog | field | leash | man | pet | play | white
+----------------------------------------
+Action: walking
+Image: frame_1.jpg
+Tags: catch | CD | chase | dog | field | frisbee | grass | grassy | green | jump | person | lush | man | park | play
+----------------------------------------
+Action: walking
+Image: frame_158.jpg
+Tags: attach | blanket | dog | house exterior | person | rink | skate | leash | man | pull | ski | sleigh | snow | snowy | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_100.jpg
+Tags: blanket | city park | dog | path | person | leash | man | park | pavement | snow | snowy | walk | winter | woman
+----------------------------------------
+Action: walking
+Image: frame_12.jpg
+Tags: ball | blue | chase | dog | field | grass | grassy | person | leash | lush | man | park | play | sweatshirt | walk | white
+----------------------------------------
+Action: walking
+Image: frame_13.jpg
+Tags: black | car | cat | dog | person | leash | man | park | pavement | pet | shirt | sweatshirt | walk | woman | yellow
+----------------------------------------
+Action: walking
+Image: frame_17.jpg
+Tags: dog | person | leash | pet | road | rural | walk | white | woman
+----------------------------------------
+Action: walking
+Image: frame_1.jpg
+Tags: catch | chase | dog | grass | leash | lush | man | play | walk | white | woman
+----------------------------------------
+Action: walking
+Image: frame_107.jpg
+Tags: attach | bag | black | catch | hand | person | jacket | leash | man | pocket | red | strap | string | wear | woman
+----------------------------------------
+Action: walking
+Image: frame_134.jpg
+Tags: dirt road | dirt track | dog | path | house exterior | leash | pet | road | rural | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_17.jpg
+Tags: black | dog | leash | pavement | pet | pink | pull | road | shirt | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_117.jpg
+Tags: dog | path | person | leash | man | pavement | pet | red | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_187.jpg
+Tags: black | dog | girl | jumpsuit | leash | road | walk | white | woman
+----------------------------------------
+Action: walking
+Image: frame_239.jpg
+Tags: chase | dog | field | football field | grass | grassy | person | leash | man | play | walk
+----------------------------------------
+Action: walking
+Image: frame_13.jpg
+Tags: dog | leash | man | pet | road | walk
+----------------------------------------
+Action: walking
+Image: frame_10.jpg
+Tags: boy | chase | dog | person | skate | leash | man | pavement | pigeon | ride | road | skateboard | skateboarder | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_2.jpg
+Tags: animal | creek | brown | dog | fence | flood | leash | man | mud | pet | puddle | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_102.jpg
+Tags: blanket | person | man | pavement | push | red | road | shirt | sleigh | snow | snowboarder | snowy | walk | woman
+----------------------------------------
+Action: walking
+Image: frame_177.jpg
+Tags: building | person | intersection | man | road | skateboarder | stand | street corner | street sign | walk
+----------------------------------------
+Action: walking
+Image: frame_152.jpg
+Tags: chase | dog | grass | person | leash | lush | man | pull | walk
+----------------------------------------
+Action: walking
+Image: frame_122.jpg
+Tags: baby carriage | car | cart | person | leash | man | pavement | push | road | shirt | shopping cart | walk | woman | yellow
+----------------------------------------

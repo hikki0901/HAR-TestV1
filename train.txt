@@ -9,3 +9,4 @@ Epoch 8/10, Train Loss: 0.3555, Train Acc: 0.9205, Val Loss: 2.4757, Val Acc: 0.
 Epoch 9/10, Train Loss: 0.1656, Train Acc: 0.9536, Val Loss: 1.3320, Val Acc: 0.5152
 Epoch 10/10, Train Loss: 0.2127, Train Acc: 0.9338, Val Loss: 1.5107, Val Acc: 0.5152
 Test Accuracy: 0.5094
+(graph loss value)
