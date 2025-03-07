@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 
 def load_features(feature_file):
-    #Load features and corresponding action labels from a given feature file.
+    # Load features and corresponding action labels from a given feature file.
     features = []
     labels = []
     with open(feature_file, 'r') as f:
@@ -20,7 +20,7 @@ def load_features(feature_file):
     return np.array(features), np.array(labels)
 
 def train_svm(train_features, train_labels, model_path, label_encoder):
-    #Train an SVM classifier using the extracted features and save the trained model.
+    # Train an SVM classifier using the extracted features and save the trained model.
     print("Train Features:", train_features)
     print("Train Labels:", label_encoder.inverse_transform(train_labels))
     
@@ -30,7 +30,7 @@ def train_svm(train_features, train_labels, model_path, label_encoder):
     print("SVM model trained and saved to", model_path)
 
 def evaluate_svm(model_path, test_features, test_labels, report_file, label_encoder):
-    #Load the trained SVM model, evaluate it on test features, and save the classification report.
+    # Load the trained SVM model, evaluate it on test features, and save the classification report.
     print("Test Features:", test_features)
     print("Test Labels:", label_encoder.inverse_transform(test_labels))
     
