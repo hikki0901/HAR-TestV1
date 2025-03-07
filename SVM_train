@@ -6,6 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 
 def load_features(feature_file):
+    #Load features and corresponding action labels from a given feature file.
     features = []
     labels = []
     with open(feature_file, 'r') as f:
@@ -19,12 +20,14 @@ def load_features(feature_file):
     return np.array(features), np.array(labels)
 
 def train_svm(train_features, train_labels, model_path):
+    #Train an SVM classifier using the extracted features and save the trained model.
     clf = SVC(kernel='linear', probability=True)
     clf.fit(train_features, train_labels)
     joblib.dump(clf, model_path)
     print("SVM model trained and saved to", model_path)
 
 def evaluate_svm(model_path, test_features, test_labels, report_file):
+    #Load the trained SVM model, evaluate it on test features, and save the classification report.
     clf = joblib.load(model_path)
     predictions = clf.predict(test_features)
     acc = accuracy_score(test_labels, predictions)
@@ -39,6 +42,7 @@ def evaluate_svm(model_path, test_features, test_labels, report_file):
         f.write(report)
 
 def main():
+    #Main function to load features, train the model, and evaluate it on test and validation sets.
     dataset_splits = ["train", "test", "val"]
     feature_files = {split: f"combined_features_{split}.txt" for split in dataset_splits}
     
