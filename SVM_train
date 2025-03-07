@@ -1,0 +1,61 @@
+import numpy as np
+import os
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score, classification_report
+from sklearn.preprocessing import LabelEncoder
+import joblib
+
+def load_features(feature_file):
+    features = []
+    labels = []
+    with open(feature_file, 'r') as f:
+        for line in f:
+            if line.startswith("Action:"):
+                action_name = line.split(",")[0].split(": ")[1]
+            elif line.strip() and not line.startswith("#"):
+                feature_vector = np.array([float(x) for x in line.strip().split(',')])
+                features.append(feature_vector)
+                labels.append(action_name)
+    return np.array(features), np.array(labels)
+
+def train_svm(train_features, train_labels, model_path):
+    clf = SVC(kernel='linear', probability=True)
+    clf.fit(train_features, train_labels)
+    joblib.dump(clf, model_path)
+    print("SVM model trained and saved to", model_path)
+
+def evaluate_svm(model_path, test_features, test_labels):
+    clf = joblib.load(model_path)
+    predictions = clf.predict(test_features)
+    acc = accuracy_score(test_labels, predictions)
+    print("Accuracy:", acc)
+    print("Classification Report:\n", classification_report(test_labels, predictions))
+
+def main():
+    dataset_splits = ["train", "test", "val"]
+    feature_files = {split: f"combined_features_{split}.txt" for split in dataset_splits}
+    
+    # Load features
+    data = {split: load_features(feature_files[split]) for split in dataset_splits}
+    
+    # Encode labels
+    label_encoder = LabelEncoder()
+    all_labels = np.concatenate([data[split][1] for split in dataset_splits])
+    label_encoder.fit(all_labels)
+    
+    for split in dataset_splits:
+        data[split] = (data[split][0], label_encoder.transform(data[split][1]))
+    
+    # Train SVM
+    model_path = "svm_har_model.pkl"
+    train_svm(data["train"][0], data["train"][1], model_path)
+    
+    # Evaluate on test and validation sets
+    print("\nEvaluating on Test Set:")
+    evaluate_svm(model_path, data["test"][0], data["test"][1])
+    
+    print("\nEvaluating on Validation Set:")
+    evaluate_svm(model_path, data["val"][0], data["val"][1])
+    
+if __name__ == "__main__":
+    main()
